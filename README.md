@@ -1,9 +1,3 @@
-# youtube-music
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alex2844/youtube-music/blob/master/ymusic.ipynb 'Open In Colab')
-
-## Скачивание треков из Youtube Music
-
 #### Справка
 ```
 :$ ymusic --help
